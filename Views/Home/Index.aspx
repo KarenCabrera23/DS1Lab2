@@ -8,6 +8,8 @@
 </head>
 <body>
     <h1>Menú de opciones</h1>
+     <a href="/Video/Ver">Ver Videos</a> 
+    <br><br/>
     <a href="/Video/Create">Agregar Video</a>
      <br><br/>
     <a href="/Video/Delete">Eliminar video</a> 
